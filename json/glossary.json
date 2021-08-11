@@ -1,0 +1,62 @@
+[
+    {
+      "id": "atp",
+      "title": "Assistive Technology Professional (ATP)",
+      "description": "The ATP certification is a specialty certification for professionals who can analyze the needs of consumers with disabilities, assist in the selection of appropriate assistive technology, and provide training in the use of the selected device(s). This certification is offered by the Rehabilitation Engineering and Assistive Technology Society of North America (<a ng-click=\"openInBrowser('http://www.resna.org', '_blank')\">RESNA</a>)."
+    },
+    {
+      "id": "cdrs",
+      "title": "Certified Driving Rehabilitation Specialists (CDRS)",
+      "description": "The CDRS certification is a specialty certification for professionals who can plan, develop, coordinate, and implement driver rehabilitation services for individuals with disabilities. This certification is offered by the Association for Driver Rehabilitation Specialists (<a ng-click=\"openInBrowser('http://www.aded.net', '_blank')\">ADED</a>)."
+    },
+    {
+      "id": "dme",
+      "title": "Durable Medical Equipment (DME)",
+      "description": "DME is a term often used by insurance. DME refers to items or devices that can withstand repeated use, are used primarily and customarily to serve a medical purpose, are customarily not useful to a person in the absence of illness or injury, and are appropriate for home use. Wheelchairs are considered a type of DME."
+    },
+    {
+      "id": "lmn",
+      "title": "Letter of Medical Necessity",
+      "description": "Letter of Medical Necessity is also called Justification Documentation for Wheelchair. See <a ng-click=\"openGlossary('jdw')\">Justification Documentation for Wheelchair </a>for more detail."
+    },
+    {
+      "id": "jdw",
+      "title": "Justification Documentation for Wheelchair",
+      "description": "Justification Documentation for Wheelchair is also called <a ng-click=\"openGlossary('lmn')\">Letter of Medical Necessity</a>. It is a detailed prescription that a therapist and/or physician writes to justify the recommended equipment / accessories to your insurance provider. The justification documentation describes your medical needs for the recommended equipment / accessories, and explains why only this specific equipment will work. The documentation also provides specs for the wheelchair checkout at delivery."
+    },
+    {
+      "id": "resna",
+      "title": "Rehabilitation Engineering and Assistive Technology Society of North America (RESNA)",
+      "description": "<a ng-click=\"openInBrowser('http://www.resna.org', '_blank')\">RESNA</a> is a professional organization that promotes the health and wellbeing of people with disabilities through increasing assess to technological solutions. It also offers certifications, continuing education, and professional development, develops assistive technology standards, and promotes research and public policy."
+    },
+    {
+      "id": "sms",
+      "title": "Seating and Mobility Specialist (SMS)",
+      "description": "The SMS certification is a specialty certification for professionals working in seating and mobility. While the ATP is a broad-based certification covering all major areas of assistive technology, the SMS certification is focused specifically on seating, positioning, and mobility. The certification is intended for clinicians, suppliers, engineers and others involved in seating and mobility service provision."
+    },
+    {
+      "id": "traditional_fs",
+      "title": "Traditional Funding Sources",
+      "description": "The traditional funding sources for a wheelchair include private health insurance and public funding sources. You may be eligible to apply for different public funding sources depending on your condition and status. Common public funding sources include Medicare, Medicaid, the State Children’s Health Insurance Program (SCHIP), the Department of Defense TRICARE and TRICARE for Life programs (DOD TRICARE), the Veterans Health Administration (VHA) program, and the Indian Health Service (IHS) program."
+    },
+    {
+      "id": "alternative_fs",
+      "title": "Alternative Funding Sources",
+      "description": "<p>Here are some examples of alternative funding sources:</p>\n<h3>National Resources:</h3>\n<ul  class=\"bullet-point\">\n    <li><a ng-click=\"openInBrowser('http://www.ucp.org/', '_blank')\">Bellows Fellow (United Cerebral Palsy Foundation)</a> - find local chapter and apply there, application form available online.</li>\n    <li><a ng-click=\"openInBrowser('https://msfocus.org/Get-Help/MSF-Programs-Grants/Brighter-Tomorrow-Grant.aspx', '_blank')\">Brighter Tomorrow Grant (Multiple Sclerosis Society)</a> - provides $1000 (i.e. seat elevators)</li>\n    <li><a ng-click=\"openInBrowser('https://www.elks.org/lodges/', '_blank')\">Elks Lodge</a> - search by zip or city for local lodge</li>\n    <li><a ng-click=\"openInBrowser('http://www.kiwanis.org/clubs', '_blank')\">Kiwanis Clubs</a> - search for your local chapter</li>\n    <li><a ng-click=\"openInBrowser('http://www.kofc.org/en//index.html', '_blank')\">Knights of Columbus</a> &ndash; find a local \"agent\" for assistance</li>\n    <li><a ng-click=\"openInBrowser('http://www.lionsclubs.org/EN/index.php', '_blank')\">Lions Clubs</a> &ndash; search by state to find local chapter</li>\n    <li><a ng-click=\"openInBrowser('http://wish.org/#sm.00000bnx1t67dme4at38zg1wroyt0', '_blank')\">Make a Wish Foundation</a> &ndash; for life-threatening conditions (i.e. SMA would, CP would not qualify)</li>\n    <li><a ng-click=\"openInBrowser('https://www.mda.org/', '_blank')\">MDA</a> - assist with cost of repairs</li>\n    <li><a ng-click=\"openInBrowser('https://www.rotary.org/', '_blank')\">Rotary Clubs</a> - find local club by city name</li>\n    <li><a ng-click=\"openInBrowser('https://www.unitedway.org/find-your-united-way/', '_blank')\">United Way</a> &ndash; find local chapter by zip code</li>\n</ul>\n<h3>State Resources</h3>\n<ul  class=\"bullet-point\">\n    <li><a ng-click=\"openInBrowser('https://www.ataporg.org/', '_blank')\">Tech Act projects</a> &ndash; Look for state specific foundations</li>\n</ul>\n<h3>Other ideas</h3>\n<ul  class=\"bullet-point\">\n    <li>Fundraisers: raise money through churches and school</li>\n    <li>Contributions: people can seek contributions from large sports teams, or businesses/local businesses</li>\n</ul>"
+    },
+    {
+      "id": "rrts",
+      "title": "Registered Complex Rehabilitation Technology Specialist (RRTS®)",
+      "description": "An RRTS® has met the requirements to be included as a registrant of the National Registry of Rehabilitation Technology Suppliers (<a ng-click=\"openInBrowser('https://nrrts.org/', '_blank')\">NRRTS</a>). Only registrants of NRRTS may use this credential."
+    },
+    {
+      "id": "crts",
+      "title": "Certified Complex Rehabilitation Technology Specialist (CRTS®)",
+      "description": "A CRTS® is someone who has been an RRTS® in good standing for at least two years, has attained the ATP credential from RESNA and continues to maintain the ATP credential. Only registrants of NRRTS who have achieved the ATP certification may use this credential."
+    },
+    {
+      "id": "rts",
+      "title": "Rehabilitation Technology Supplier (RTS)",
+      "description": "A Rehabilitation Technology Supplier (RTS) is not a certification. Any supplier of durable medical equipment (DME) can use the initials RTS as a description. It does not necessarily indicate that the supplier has knowledge or experience in providing assistive technology, including wheelchairs. "
+    }
+  ]

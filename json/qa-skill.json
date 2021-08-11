@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Drive wheelchair more smoothly",
+         "group":["drive"],
+        "q": "How can I drive my wheelchair more smoothly?",
+        "a": "<p>\n  You will need to contact your supplier to check your wheelchair set-up and controller programming.\n</p>\n<p>Possible solutions include:</p>\n<ul class=\"bullet-point\">\n  <li>Adjust <a ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name: 'mounting-location'})\">controller location and position</a>.</li>\n  <li>Adjust driving parameter in your <a ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name: 'programming'})\">controller</a>.</li>\n</ul>"
+    },
+
+    {
+        "title": "Turn more easily",
+         "group":["drive"],
+        "q": "How can I make turns easily?",
+        "a": "<p>You will need to contact your supplier to check your wheelchair set-up and\ncontroller programming, and practice the skills to turn a wheelchair, which is\ndifferent according to the location of the driving wheels. Contact your physical\ntherapist or occupational therapist if you want to receive training on\nwheelchair driving skills.</p>\n<p>Possible solutions include:</p>\n<ul class=\"bullet-point\">\n    <li>Adjust driving parameter in your <a ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name: 'programming'})\">controller</a>.</li>\n    <li>Practice <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page', { name: 'na_turncorner'})\">wheelchair driving skills</a>.</li>\n</ul>"
+    },
+
+    {
+        "title": "Drive through uneven terrain",
+         "group":["drive", "safety"],
+        "q": "What is the best way to drive my wheelchair through uneven and/or soft surfaces, like gravel, grass, soil?",
+        "a": "<p>Going through soft surfaces or terrain with height difference can be challenging and increase risk of getting stuck or tipping. Plan in advance to choose a route with the least difficulty. </p>\n        <p>If you have to go through uneven or soft surfaces regularly, you can contact your supplier to check your wheelchair set-up and controller programming to increase the safety and efficiency on these surfaces. Contact your physical therapist or occupational therapist to receive training on wheelchair driving skills.</p>\n        <p>Possible solutions include:</p>\n        <ul class=\"bullet-point\">\n            <li>Adjust driving parameter in your controller (<a\n            ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n            'programming'})\">controller programming</a>).</li>\n            <li>Practice <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page', { name: 'na_turncorner'})\">wheelchair driving skills</a>.</li>\n        </ul>\n"
+    },
+    {
+        "title": "Practice skills with friends",
+         "group":["drive", "safety"],
+        "q": "Can I practice wheelchair driving skills with help from my friend?",
+        "a": "<p>Power wheelchair driving skills involve many techniques with risks of\n        tipping and falling if you are not familiar with them. The\n        trainer/spotter needs to know which environmental factors and movement\n        will likely cause tips and falls, and which direction you will likely\n        tip or fall towards in order to direct you before you actually fall. It\n        is highly recommended that you work with a physical therapist or\n        occupational therapist who is experienced in wheelchair skills training\n        to practice power wheelchair driving skills.</p>"
+    },
+    {
+        "title": "Wheelchair more stable and not tipping",
+         "group":["safety"],
+        "q": "How can I make my wheelchair more stable and avoid tipping?",
+        "a": "<p>You will need to be aware of the interaction between your seating position, environmental factors (ramps, soft surfaces, ect.), and driving direction on weight distribution and stability of your wheelchair. Contact your supplier to check your controller programming to see whether speed or seating angle limitation would be beneficial for you. Contact your physical therapist or occupational therapist to receive training on wheelchair driving skills.</p>\n        <p>Possible solutions include:</p>\n        <ul class=\"bullet-point\">\n            <li>Adjust parameter in your controller (<a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'programming'})\">controller programming</a>).</li>\n            <li>Practice wheelchair driving skills to go over\n                <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n                { name: 'sr_asc'})\">ramps</a>,\n                <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n                { name: 'dh_curbs'})\">soft surfaces and different height</a>, and\n                <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n                { name: 'ct_disassemble'})\">use of power seating functions</a>.</li>\n        </ul>\n"
+    },
+    {
+        "title": "Borrow a wheelchair",
+         "group":["safety"],
+        "q": "Can I borrow a power wheelchair to practice wheelchair driving skills?",
+        "a": "<p>It is not recommended to practice wheelchair driving skills with a borrowed\n        wheelchair, because the borrowed wheelchair may be set up differently from\n        your personal wheelchair. Please contact your physician and therapist to <a ng-click=\"navigateTo('main.serdelivery')\">get\n        a new wheelchair</a> to meet your needs and practice wheelchair skills with your\n        own wheelchair. </p>\n"
+    },
+    {
+        "title": "Wheelchair Batteries",
+         "group":["safety"],
+        "q": "How often should I charge my wheelchair?",
+        "a": "<p>Follow the instruction in the user manual of your power wheelchair.\n        Contact your wheelchair supplier if you cannot locate the user manual\n        and have any questions regarding wheelchair batteries and charger. Most\n        full-time power wheelchair users charge their wheelchairs on a daily\n        basis. If you use your wheelchair part-time, you would need to observe\n        how much the battery charge and need to prevent the batteries from\n        dropping below 50% of charge.</p>"
+    },
+    {
+        "title": "Avoid sliding forward",
+         "group":["safety", "posture"],
+        "q": "How can I avoid sliding forward?",
+        "a": "<p>You will need to contact your supplier to check your wheelchair\n        set-up and controller programming to see if seating angle limitation\n        would be beneficial for you. If your wheelchair has power seating\n        functions, contact your physical therapist or occupational therapist to\n        receive training on the use and safety of power seating functions.</p>\n        <p>Possible solutions include:</p>\n        <ul class=\"bullet-point\">\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'seat-depth'})\">seat depth</a>.</li>\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'footrest-length'})\">footrest length</a>.</li>\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'footrest-angle'})\">footrest angle</a>.</li>\n            <li>Add <a\n                ng-click=\"navigateTo('main.usewheelchair.components.component.page', { name:\n                'accessories-hip'})\">positioning accessories</a>.</li>\n            <li>Adjust parameter in your controller (<a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'programming'})\">controller programming</a>).</li>\n            <li>Learn the skills and safety about using <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n                { name: 'ct_disassemble'})\">power seating functions</a>.</li>\n        </ul>"
+    },
+    {
+        "title": "Prevent feet from falling",
+         "group":["safety", "posture"],
+        "q": "How can I prevent my feet from falling out of the footrests?",
+        "a": "<p>You will need to contact your supplier to check your wheelchair set-up. </p>\n        <p>Possible solutions include:</p>\n        <ul class=\"bullet-point\">\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'seat-depth'})\">seat depth</a>.</li>\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'footrest-length'})\">footrest length</a>.</li>\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'footrest-angle'})\">footrest angle</a>.</li>\n            <li>Add <a\n                ng-click=\"navigateTo('main.usewheelchair.components.component.page', { name:\n                'accessories-hip'})\">positioning accessories</a>.</li>\n        </ul>"
+    },
+    {
+        "title": "Avoid leaning to one side",
+         "group":["posture"],
+        "q": "How can I avoid leaning to one side?",
+        "a": "<p>You will need to contact your supplier to check your wheelchair set-up. If your wheelchair has power seating functions (e.g., tilt and recline), you can use them to improve your alignment. Contact your physical therapist or occupational therapist to receive training on the use and safety of power seating functions.</p>\n        <p>Possible solutions include:</p>\n        <ul class=\"bullet-point\">\n            <li>Add <a\n                ng-click=\"navigateTo('main.usewheelchair.components.component.page', { name:\n                'accessories-trunk'})\">positioning accessories</a> to support your torso.</li>\n            <li>Learn the skills and safety about using <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n                { name: 'ct_disassemble'})\">power seating functions</a>.</li>\n        </ul>"
+    },
+    {
+        "title": "Sit more stably",
+         "group":["posture"],
+        "q": "How can I sit more stably?",
+        "a": "<p>You will need to contact your supplier to check your wheelchair set-up. If your wheelchair has power seating functions (e.g., tilt and recline), you can use them to increase your sitting stability. Contact your physical therapist or occupational therapist to receive training on the use and safety of power seating functions.</p>\n        <p>Possible solutions include:</p>\n        <ul class=\"bullet-point\">\n            <li>Add <a\n                ng-click=\"navigateTo('main.usewheelchair.components.component.page', { name:\n                'accessories-trunk'})\">positioning accessories</a> to support your torso.</li>\n            <li>Learn the skills and safety about using <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n                { name: 'ct_disassemble'})\">power seating functions</a>.</li>\n        </ul>"
+    },
+    {
+        "title": "Prevent knees from flaring apart",
+         "group":["posture"],
+        "q": "How can I prevent my knees from flaring apart?",
+        "a": "<p>You will need to contact your supplier to check your wheelchair set-up. </p>\n        <p>Possible solutions include:</p>\n        <ul class=\"bullet-point\">\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'seat-depth'})\">seat depth</a>.</li>\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'footrest-length'})\">footrest length</a>.</li>\n            <li>Adjust <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'footrest-angle'})\">footrest angle</a>.</li>\n            <li>Add positioning accessories: a <a\n                ng-click=\"navigateTo('main.usewheelchair.components.component.page', { name:\n                'accessories-lap'})\">lap or leg strap</a> or <a\n                ng-click=\"navigateTo('main.usewheelchair.components.component.page', { name:\n                'accessories-hip'})\">hip guards</a> may also be helpful to keep your knees in place.</li>\n        </ul>"
+    },
+    {
+        "title": "Neck & back pain",
+         "group":["health"],
+        "q": "What should I do if I have pain in my neck and/or back?",
+        "a": "<p>Neck and/or back pain may be caused by insufficient <a\n        ng-click=\"navigateTo('main.usewheelchair.skills')\">wheelchair\n        skills</a>, and/or inappropriate <a\n        ng-click=\"navigateTo('main.usewheelchair.fit')\">wheelchair set-up</a>.\n        If your wheelchair has power seating functions, they can be used to\n        manage or decrease pain in your neck and back. <a\n        ng-click=\"navigateTo('main.contacts')\">Contact your physician</a> to\n        check whether you have injuries or wounds that need immediate care. <a\n        ng-click=\"navigateTo('main.contacts')\">Contact your therapist or\n        supplier</a>\n        for assessment about wheelchair skills and set-up. </p>"
+    },
+    {
+        "title": "Pressure pain over buttock",
+         "group":["health"],
+        "q": "What should I do if I feel pressure or pain over my buttocks?",
+        "a": "<p>If you find red spots or changes in skin color that do not go away in\n        20 min after pressure was removed from the area:</p>\n        <ul class=\"bullet-point\">\n            <li>See your <a\n                ng-click=\"navigateTo('main.contacts')\">physician</a> to check whether you need immediate care. </li>\n            <li>See your <a\n                ng-click=\"navigateTo('main.contacts')\">therapist or supplier</a> for a <a\n                ng-click=\"navigateTo('main.usewheelchair.fit.features.page', { name:\n                'cushion'})\">pressure mapping assessment</a> of seat cushion. </li>\n            <li>May need to change the  <a\n                ng-click=\"navigateTo('main.usewheelchair.components.component.page', { name:\n                'cushion-contoured'})\">type of cushion</a>.</li>\n            <li>May need training in performing pressure relief (<a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n                { name: 'da_weight'})\">weight shift</a>)</li>\n            <li>Check other areas you sit on at home (toilet seat, recliner) and make sure they have appropriate padding. You may benefit from a home evaluation by a therapist.</li>\n        </ul>"
+    },
+    {
+        "title": "Push up for pressure relief",
+         "group":["health"],
+        "q": "Should I push up to relieve pressure from buttocks?",
+        "a": "<p>Performing \"push-up\" will produce undue stress to your upper limb\n        joints. Besides, it is almost unlikely to maintain a “push-up” position\n        for 2 minutes for effective pressure relief. To prevent injury and\n        achieve effective pressure relief, it is recommended that you <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n        { name: 'da_weight'})\">lean your\n        trunk forward and sideways to shift your weight</a>. If your wheelchair has\n        power seat functions, <a ng-click=\"navigateTo('main.usewheelchair.skills.skill.page',\n        { name: 'da_weight'})\">use these functions</a> to shift weight away from your\n        buttocks periodically.</p>"
+    }
+]

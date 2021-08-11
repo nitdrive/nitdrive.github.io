@@ -1,0 +1,21 @@
+{
+    "name": "Power Wheelchair Guide",
+    "short_name": "PWCGuide",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "196.png",
+        "sizes": "196x196",
+        "type": "image/png"
+      },
+      {
+        "src": "512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffd31d",
+    "background_color": "#333",
+    "display": "standalone"
+}

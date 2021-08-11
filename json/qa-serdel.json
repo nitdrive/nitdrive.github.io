@@ -1,0 +1,57 @@
+[
+  {
+    "title": "What can I expect from an appropriate wheelchair evaluation?",
+    "q": "What can I expect from an appropriate wheelchair evaluation?",
+    "a": "<p>Wheelchair evaluation is typically performed by a therapist who specializes in wheelchair and seating and who, ideally, is a certified <a ng-click=\"navigateTo('main.serdelivery.glossary.detail', {index: 'atp'})\">Assistive Technology Professional (ATP)</a>. The therapist will:</p>\n<ul class=\"bullet-point\">\n    <li>Review medical records</li>\n    <li>Collect health information</li>\n    <li>Learn about all areas of your life that may affect your mobility</li>\n    <li>Conduct a physical examination (strength, sensation, balance) and a <a ng-click=\"getStaticModalPage('servicedelivery/modal_func_assessment.html')\">functional assessment</a></li>\n    <li>Refer you to a wheelchair supplier(s) who is a certified  <a ng-click=\"navigateTo('main.serdelivery.glossary.detail', {index: 'atp'})\">Assistive Technology Professional (ATP)</a> or  <a ng-click=\"navigateTo('main.serdelivery.glossary.detail', {index: 'sms'})\">Seating and Mobility Specialist (SMS)</a></li>\n    <li>Work with you, the assistive technology professional and/or seating and mobility specialist, and your physician as a team to determine the best wheelchair and features for your needs</li>\n    <li>Draft a <a ng-click=\"openGlossary('jdw')\">justification documentation for wheelchair</a> that includes the physician’s clinical documentation and prescription, and the specifications for the wheelchair provided by the assistive technology professional and/or seating and mobility specialist.</li>\n</ul>\n"
+  },
+  {
+    "title": "Do I have an input to my choice of wheelchair?",
+    "q": "Do I have an input to my choice of wheelchair?",
+    "a": "<p>Wheelchair prescription is primarily based on the physician and therapist’s assessment of your needs and diagnosis.  There will be limits as to the type of mobility devices that your insurance would likely cover based on your diagnosis.</p>\n<p>However, within those limitations, you are the primary member of the team and should be active in trying out different devices and choosing a mobility device that is the safest and most effective for you and will address your mobility needs over the next 5-6 years.  Based on the outcome of the evaluation, product options will be discussed with you, and you will get to try out different products and configurations to determine the most appropriate wheelchair and features.</p>\n"
+  },
+  {
+    "title": "What should I do if I receive a letter saying that parts or all of my chair is denied by my insurance company?",
+    "q": "What should I do if I receive a letter saying that parts or all of my chair is denied by my insurance company?",
+    "a": "<p>There is usually a time limit to responding to a denial.  You should immediately inform your physician, therapist and the assistive technology professional and/or seating and mobility specialist about the denial and provide them with a paper or electronic copy of the letter of denial that you received.</p>\n<ul class=\"bullet-point\">\n  <li>You could provide your physician a phone number to contact the physician at the insurance company in order to respond to the denial in a short time frame.</li>\n  <li>If your physician is unable to get in touch with the insurance company, the next option is that the therapist and physician can write a letter of response to the denial to address the questions from the insurance company. </li>\n  <li>If the chair or chair parts are denied a second time, you will need to file an appeal.  Contacting your congress person to advocate for yourself may also be helpful.</li>  \n  <li>For further questions about the denial process, please consult your therapist and the assistive technology professional and/or seating and mobility specialist to understand the denial and you may also call your insurance company to learn about their required steps and the timeline of filing an appeal.</li>    \n</ul>\n"
+  },
+  {
+    "title": "When will the health insurance fund a new wheelchair for me again? ",
+    "q": "When will the health insurance fund a new wheelchair for me again? ",
+    "a": "<p>Funding from the health insurance for a new wheelchair will based on an evaluation by a physician and a therapist. Some factors for consideration are:</p>\n<ul class=\"bullet-point\">\n  <li>Any changes in medical condition</li>\n  <li>The condition of the wheelchair\n    <ul class=\"bullet-point\">\n      <li>If a chair exceeds the life expectancy, which is usually 5 years of normal use</li>\n      <li>If the cost to repair the chair is more than 60% of the cost of a replacement chair</li>\n    </ul>\n  </li>\n</ul>"
+  },
+  {
+    "title": "What resources are available to fund home and vehicle modifications?",
+    "q": "What resources are available to fund home and vehicle modifications?",
+    "a": "<p>Potential funding for home/vehicle modification include:</p>\n<ul class=\"bullet-point\">\n  <li>VA funds </li>\n  <li>Office of Vocational Rehab</li>\n  <li>Individuals with Disability Education Act funding </li>\n  <li>Worker’s compensation</li>\n  <li>Self pay</li>\n</ul>"
+  },
+  {
+    "title": "How do I know if the new wheelchair has all the features I need?",
+    "q": "How do I know if the new wheelchair has all the features I need?",
+    "a": "<p>Before signing for your new wheelchair, it is important to schedule a final fit and training when you will work with your therapist and the assistive technology professional and/or seating and mobility specialist on fine tuning the fit, and learning the use and care of the wheelchair. </p>\n<p>At the final fitting, the therapist and you can go over the original letter to the insurance company and make sure that you have received what were requested. If something does not seem right, please speak up at the final fitting before you sign the paperwork for the wheelchair. </p>"
+  },
+  {
+    "title": "How do I know what wheelchair features, components, and accessories meet my needs?",
+    "q": "How do I know what wheelchair features, components, and accessories meet my needs?",
+    "a": "<p>The wheelchair features, components, and accessories will be determined during the wheelchair evaluation by a therapist and together with the supplier, the physician, and you. Typically there is a required one-time home visit by the wheelchair supplier who will make sure the new wheelchair fits you well and works well in your home. You could possibly request a longer in-home trial if needed so you can try the wheelchair features, components, and accessories more extensively. </p>\n<p>It is important that you let the therapist and the supplier know how the home trial went so that they can work with you to change the wheelchair or prescription if necessary.  Please see the <a ng-click=\"navigateTo('main.usewheelchair.components')\">Wheelchair Components</a> section in the app for more information. </p>"
+  },
+  {
+    "title": "How do I know if the new wheelchair will fit my house? ",
+    "q": "How do I know if the new wheelchair will fit my house? ",
+    "a": "<p>Contact your therapist to request a <a ng-click=\"getStaticModalPage('servicedelivery/modal_home_evaluation.html')\">home evaluation</a>, which can verify if the wheelchair fits in and around your home, and if you can use it independently and safely.  Typically, the wheelchair supplier is required to conduct a home evaluation to determine whether the chair works well.  It is a good idea to have a family member, friend or caregiver present during the home evaluation to catch important issues in daily activities you may miss or overlook.</p>"
+  },
+  {
+    "title": "How does the health insurance company decide whether to fund my wheelchair?",
+    "q": "How does the health insurance company decide whether to fund my wheelchair?",
+    "a": "<p>The health insurance companies will fund mobility devices based on documentation that demonstrates a medical need for the wheelchair.  Funding of the wheelchair is decided based primarily on the physician, therapist and supplier’s evaluation of your needs and your medical diagnosis, and type of the device. </p>"
+  },
+  {
+    "title": "What if my wheelchair does not meet my needs anymore due to my condition change such as  a new pressure wound, weight gain, or increased spasiticity?",
+    "q": "What if my wheelchair does not meet my needs anymore due to my condition change such as  a new pressure wound, weight gain, or increased spasiticity?",
+    "a": "<p>Contact your therapist to schedule an appointment for a <a ng-click=\"getStaticModalPage('modals/info/wheelchair_evaluation.html')\">wheelchair evaluation</a>. Bring your current wheelchair with all the accessories and the cushion on it to attend the evaluation.</p>"
+  },
+  {
+    "title": "What if my new wheelchair is having mechanical or electronic problems, broken, or malfunctioning? ",
+    "q": "What if my new wheelchair has mechanical problems or is broken?",
+    "a": "<p>For safety reasons, contact your wheelchair supplier to get it evaluated immediately. </p>"
+  }
+]

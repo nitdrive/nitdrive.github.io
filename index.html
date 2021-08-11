@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html  ng-app="smartvcApp">
+<head preference-header>
+    <style>
+        /* This helps the ng-show/ng-hide animations start at the right place. */
+        /* Since Angular has this but needs to load, this gives us the class early. */
+        .ng-hide { display: none!important; }
+
+        /* Deferred long-running timer task(s) Issue */
+        .md-scroll-mask { position: initial;}
+    </style>
+    <title ng-bind="title">MyWCGuide</title>
+    <link rel="manifest" href="manifest.json">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+    <meta http-equiv="Content-Security-Policy" content="default-src * gap://ready file://* * data: blob: 'unsafe-inline' 'unsafe-eval' ws: wss:; script-src 'self' 'unsafe-inline' 'unsafe-eval' *; style-src  'self' 'unsafe-inline' *; worker-src 'self' data: blob: *" />
+
+    <link rel="stylesheet" href="styles/lib-46bc0445.css">
+
+    <link rel="stylesheet" href="styles/app-581ff92a.css">
+</head>
+<body>
+    <ion-nav-view  animation="slide-left-right"></ion-nav-view>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="register-sw.js"></script>
+
+    <script src="js/lib-a9ba83db.js"></script>
+
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <script src="js/app-aa3ec0c3.js"></script>
+
+</body>
+</html>
