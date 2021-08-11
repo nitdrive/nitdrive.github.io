@@ -1,21 +1,22 @@
 {
-    "name": "Power Wheelchair Guide",
+    "name": "My Wheelchair Guide",
     "short_name": "PWCGuide",
     "start_url": "index.html",
     "scope": "./",
     "icons": [
       {
-        "src": "196.png",
-        "sizes": "196x196",
+        "src": "images/support-icons/android-chrome-192x192.png",
+        "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "512.png",
+        "src": "images/support-icons/android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ],
-    "theme_color": "#ffd31d",
-    "background_color": "#333",
-    "display": "standalone"
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait"
 }
