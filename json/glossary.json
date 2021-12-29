@@ -22,7 +22,7 @@
     {
       "id": "jdw",
       "title": "Justification Documentation for Wheelchair",
-      "description": "Justification Documentation for Wheelchair is also called <a ng-click=\"openGlossary('lmn')\">Letter of Medical Necessity</a>. It is a detailed prescription that a therapist and/or physician writes to justify the recommended equipment / accessories to your insurance provider. The justification documentation describes your medical needs for the recommended equipment / accessories, and explains why only this specific equipment will work. The documentation also provides specs for the wheelchair checkout at delivery."
+      "description": "The Justification Documentation for a Wheelchair can also be called a Letter of Medical Necessity.  The is often written by the therapist in conjunction with the physician.This justification documentation describes your medical and functional needs and helps to justify the recommended wheelchair and wheelchair components to your insurance provider.  At times, this document may also include specific information about a client's fitting and training needs."
     },
     {
       "id": "resna",

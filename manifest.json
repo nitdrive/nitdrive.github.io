@@ -1,6 +1,6 @@
 {
     "name": "My Wheelchair Guide",
-    "short_name": "PWCGuide",
+    "short_name": "WCGuide",
     "start_url": "index.html",
     "scope": "./",
     "icons": [
